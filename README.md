@@ -4,10 +4,10 @@ profile picture: <a href="https://commons.wikimedia.org/wiki/File:Dead_rat_(Ratt
 
 ## Star History
 
-<a href="https://www.star-history.com/#SzChurros/SzCzOs&Date">
+<a href="https://www.star-history.com/#SzChurros/SzCzOs&SzChurros/AwfulFileSystem&Date">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=SzChurros/SzCzOs&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=SzChurros/SzCzOs&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=SzChurros/SzCzOs&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=SzChurros/SzCzOs,SzChurros/AwfulFileSystem&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=SzChurros/SzCzOs,SzChurros/AwfulFileSystem&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=SzChurros/SzCzOs,SzChurros/AwfulFileSystem&type=Date" />
  </picture>
 </a>
