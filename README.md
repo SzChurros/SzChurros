@@ -4,4 +4,10 @@ profile picture: <a href="https://commons.wikimedia.org/wiki/File:Dead_rat_(Ratt
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=SzChurros/C-Roughly&type=Date)](https://www.star-history.com/#SzChurros/C-Roughly&Date)
+<a href="https://www.star-history.com/#SzChurros/C-Roughly&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=SzChurros/C-Roughly&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=SzChurros/C-Roughly&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=SzChurros/C-Roughly&type=Date" />
+ </picture>
+</a>
