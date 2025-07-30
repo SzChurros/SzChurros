@@ -4,8 +4,6 @@ profile picture: <a href="https://commons.wikimedia.org/wiki/File:Dead_rat_(Ratt
 
 ## Star History
 
-## Star History
-
 <a href="https://www.star-history.com/#SzChurros/SzCzOs&SzChurros/AwfulFileSystem&Date">
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=SzChurros/SzCzOs,SzChurros/AwfulFileSystem&type=Date&theme=dark" />
